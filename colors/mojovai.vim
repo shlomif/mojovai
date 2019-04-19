@@ -10,6 +10,7 @@
 " by Wimer Hazenberg and its darker variant
 " by Hamish Stuart Macpherson
 "
+" Jaggz placed their changes under https://creativecommons.org/choose/zero/ .
 
 hi clear
 
